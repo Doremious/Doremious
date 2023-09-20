@@ -1,7 +1,7 @@
 ### Hi I'm Doremious 👋
 
 
-<img src="https://doremious.github.io/img/kotomi.png" height="120" align="right" alt="生徒会の一存" title="生徒会の一存" />
+<img src="https://doremious.github.io/img/shiro.png" height="120" align="right" alt="生徒会の一存" title="生徒会の一存" />
 
 _(:зゝ∠)_
 
